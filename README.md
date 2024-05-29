@@ -92,4 +92,5 @@ contract DegenToken is ERC20 {
 
 # AUTHOR
 Olivar, Ulysses O.
+
 3.1 BSIT
